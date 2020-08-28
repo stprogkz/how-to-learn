@@ -1,0 +1,9 @@
+.techniques__cards {
+  max-width: 920px;
+  list-style-type: none;
+  display: flex;
+  row-gap: 60px;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0 auto;
+}
