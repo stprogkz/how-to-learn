@@ -1,0 +1,9 @@
+@import url('__title/video__title.css');
+@import url('__subtitle/video__subtitle.css');
+@import url('__iframes/video__iframes.css');
+@import url('__iframe/video__iframe.css');
+
+.video {
+  max-width: 1050px;
+  margin: 0 auto -50px;
+}
