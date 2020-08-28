@@ -1,0 +1,13 @@
+.techniques__item {
+  max-width: 230px;
+  max-height: 406px;
+  margin-right: 115px;
+}
+
+.techniques__item:nth-child(3n) {
+  margin: 0;
+}
+
+.techniques__item:last-of-type {
+  margin: 0;
+}
