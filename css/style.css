@@ -63,16 +63,12 @@
   right: 0;
 }
 
-.description {
-  padding: 100px 0;
-}
-
 .two-columns {
   max-width: 1280px;
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  margin: 0 auto;
+  margin: 100px auto;
 }
 
 .two-columns__brief {
