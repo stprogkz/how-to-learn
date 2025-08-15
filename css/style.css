@@ -1,3 +1,63 @@
 .page {
   font-family: 'Noto Sans', sans-serif;
 }
+
+.header {
+  min-height: 756px;
+  background-color: #f2f2f2;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.header__logo {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 1;
+}
+
+.header__title {
+  max-width: 730px;
+  position: absolute;
+  left: 64px;
+  font-size: 102px;
+  line-height: 96px;
+  font-weight: 600;
+  margin: 0;
+  z-index: 1;
+}
+
+.header__subtitle {
+  max-width: 403px;
+  position: absolute;
+  left: 64px;
+  bottom: 30px;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 400;
+  margin: 0;
+  z-index: 1;
+}
+
+.header__link {
+  text-decoration: none;
+  color: #2f80ed;
+}
+
+.header__main-illustration {
+  width: 765px;
+  height: 608px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.header__square-pic {
+  width: 568px;
+  height: 568px;
+  background-color: #2f80ed;
+  position: absolute;
+  top: 64px;
+  right: 0;
+}
