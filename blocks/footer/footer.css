@@ -1,0 +1,17 @@
+@import url('__lists/footer__lists.css');
+@import url('__list/_content/footer__list_content_copyright.css');
+@import url('__logo/footer__logo.css');
+@import url('__author/footer__author.css');
+@import url('__list/_content/footer__list_content_info.css');
+@import url('__list/_content/footer__list_content_socia.css');
+@import url('__list-heading/footer__list-heading.css');
+@import url('__list-links/footer__list-links.css');
+@import url('__list-item/footer__list-item.css');
+@import url('__list-link/footer__list-link.css');
+@import url('__social-icon/footer__social-icon.css');
+
+.footer {
+  background-color: #1f1f1f;
+  color: #fff;
+  padding: 60px 0 40px;
+}

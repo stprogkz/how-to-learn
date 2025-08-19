@@ -1,0 +1,8 @@
+.footer__list-link {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+}
