@@ -1,4 +1,6 @@
 .header__link {
+  min-width: 84px;
+  display: inline-block;
   text-decoration: none;
   color: #2f80ed;
 }
