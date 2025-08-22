@@ -1,0 +1,12 @@
+@import url('__heading/techniques__heading.css');
+@import url('__subtitle/techniques__subtitle.css');
+@import url('__cards/techniques__cards.css');
+@import url('__item/techniques__item.css');
+@import url('__img/techniques__img.css');
+@import url('__title/techniques__title.css');
+@import url('__description/techniques__description.css');
+
+.techniques {
+  max-width: 960px;
+  margin: 0 auto 100px;
+}
